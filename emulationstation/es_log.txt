@@ -1,0 +1,194 @@
+lvl2: 	EmulationStation - v2.0.1a, built Sep 10 2016 - 19:03:11
+lvl2: 	Creating surface...
+lvl2: 	Created window successfully.
+lvl2: 	Added known joystick Generic X-Box pad (instance ID: 0, device index: 0)
+lvl2: 	Checking available OpenGL extensions...
+lvl2: 	 ARB_texture_non_power_of_two: ok
+lvl2: 	Loading system config file /home/house/.config/emulationstation/es_systems.cfg...
+lvl2: 	Parsing XML file "/home/house/.config/emulationstation/gamelists/NES/gamelist.xml"...
+lvl2: 	Parsing XML file "/home/house/.config/emulationstation/gamelists/SNES/gamelist.xml"...
+lvl2: 	Parsing XML file "/home/house/.config/emulationstation/gamelists/GBA/gamelist.xml"...
+lvl2: 	Parsing XML file "/home/house/.config/emulationstation/gamelists/GENESIS/gamelist.xml"...
+lvl2: 	Parsing XML file "/home/house/.config/emulationstation/gamelists/N64/gamelist.xml"...
+lvl2: 	Parsing XML file "/home/house/.config/emulationstation/gamelists/ARCADE/gamelist.xml"...
+lvl2: 	Parsing XML file "/home/house/.config/emulationstation/gamelists/2600/gamelist.xml"...
+lvl2: 	Parsing XML file "/home/house/.config/emulationstation/gamelists/PSX/gamelist.xml"...
+lvl1: 	File ""/home/house/roms/PSX/Jet Moto (USA).7z"" does not exist! Ignoring.
+lvl1: 	File ""/home/house/roms/PSX/Jet Moto (USA) (Track 01).bin"" does not exist! Ignoring.
+lvl2: 	 req sound [detailed.launch]
+lvl2: 	   (missing)
+lvl2: 	Attempting to launch game...
+lvl2: 		retroarch -L /usr/lib/libretro/nestopia_libretro.so /home/house/roms/NES/Spy\ Hunter.nes
+lvl2: 	Creating surface...
+lvl2: 	Created window successfully.
+lvl2: 	Added known joystick Generic X-Box pad (instance ID: 0, device index: 0)
+lvl2: 	Added known joystick Generic X-Box pad (instance ID: 0, device index: 0)
+lvl2: 	 req sound [detailed.launch]
+lvl2: 	   (missing)
+lvl2: 	Attempting to launch game...
+lvl2: 		retroarch -L /usr/lib/libretro/nestopia_libretro.so /home/house/roms/NES/Spy\ vs.\ Spy.nes
+lvl2: 	Creating surface...
+lvl2: 	Created window successfully.
+lvl2: 	Added known joystick Generic X-Box pad (instance ID: 0, device index: 0)
+lvl2: 	Added known joystick Generic X-Box pad (instance ID: 0, device index: 0)
+lvl2: 	 req sound [detailed.launch]
+lvl2: 	   (missing)
+lvl2: 	Attempting to launch game...
+lvl2: 		retroarch -L /usr/lib/libretro/snes9x_libretro.so /home/house/roms/SNES/Ren\ \&\ Stimpy\ Show\ Part\ II\ -\ Fire\ Dogs,\ The.smc
+lvl2: 	Creating surface...
+lvl2: 	Created window successfully.
+lvl2: 	Added known joystick Generic X-Box pad (instance ID: 0, device index: 0)
+lvl2: 	Added known joystick Generic X-Box pad (instance ID: 0, device index: 0)
+lvl2: 	 req sound [detailed.launch]
+lvl2: 	   (missing)
+lvl2: 	Attempting to launch game...
+lvl2: 		retroarch -L /usr/lib/libretro/mgba_libretro.so /home/house/roms/GBA/Sonic\ Advance\ 3\ \(USA\)\ \(En,Ja,Fr,De,Es,It\).gba
+lvl2: 	Creating surface...
+lvl2: 	Created window successfully.
+lvl2: 	Added known joystick Generic X-Box pad (instance ID: 0, device index: 0)
+lvl2: 	Added known joystick Generic X-Box pad (instance ID: 0, device index: 0)
+lvl2: 	 req sound [detailed.menuOpen]
+lvl2: 	   (missing)
+lvl1: 	OptionListComponent too narrow!
+lvl1: 	OptionListComponent too narrow!
+lvl2: 	 req sound [detailed.menuOpen]
+lvl2: 	   (missing)
+lvl1: 	OptionListComponent too narrow!
+lvl1: 	OptionListComponent too narrow!
+lvl2: 	 req sound [detailed.launch]
+lvl2: 	   (missing)
+lvl2: 	Attempting to launch game...
+lvl2: 		retroarch -L /usr/lib/libretro/mgba_libretro.so /home/house/roms/GBA/Mega-Man\ Battle\ Network\ #\ GBA.GBA
+lvl2: 	Creating surface...
+lvl2: 	Created window successfully.
+lvl2: 	Added known joystick Generic X-Box pad (instance ID: 0, device index: 0)
+lvl2: 	Added known joystick Generic X-Box pad (instance ID: 0, device index: 0)
+lvl2: 	 req sound [detailed.menuOpen]
+lvl2: 	   (missing)
+lvl1: 	OptionListComponent too narrow!
+lvl1: 	OptionListComponent too narrow!
+lvl2: 	 req sound [detailed.menuOpen]
+lvl2: 	   (missing)
+lvl1: 	OptionListComponent too narrow!
+lvl1: 	OptionListComponent too narrow!
+lvl2: 	 req sound [detailed.launch]
+lvl2: 	   (missing)
+lvl2: 	Attempting to launch game...
+lvl2: 		retroarch -L /usr/lib/libretro/mgba_libretro.so /home/house/roms/GBA/Megaman\ Zero\ \(USA,\ Europe\).gba
+lvl2: 	Creating surface...
+lvl2: 	Created window successfully.
+lvl2: 	Added known joystick Generic X-Box pad (instance ID: 0, device index: 0)
+lvl2: 	Added known joystick Generic X-Box pad (instance ID: 0, device index: 0)
+lvl2: 	 req sound [detailed.menuOpen]
+lvl2: 	   (missing)
+lvl1: 	OptionListComponent too narrow!
+lvl1: 	OptionListComponent too narrow!
+lvl2: 	 req sound [detailed.menuOpen]
+lvl2: 	   (missing)
+lvl1: 	OptionListComponent too narrow!
+lvl1: 	OptionListComponent too narrow!
+lvl2: 	 req sound [detailed.menuOpen]
+lvl2: 	   (missing)
+lvl1: 	OptionListComponent too narrow!
+lvl1: 	OptionListComponent too narrow!
+lvl2: 	 req sound [detailed.launch]
+lvl2: 	   (missing)
+lvl2: 	Attempting to launch game...
+lvl2: 		retroarch -L /usr/lib/libretro/mgba_libretro.so /home/house/roms/GBA/Harvest\ Moon\ -\ Friends\ of\ Mineral\ Town\ #\ GBA.GBA
+lvl2: 	Creating surface...
+lvl2: 	Created window successfully.
+lvl2: 	Added known joystick Generic X-Box pad (instance ID: 0, device index: 0)
+lvl2: 	Added known joystick Generic X-Box pad (instance ID: 0, device index: 0)
+lvl2: 	 req sound [detailed.menuOpen]
+lvl2: 	   (missing)
+lvl1: 	OptionListComponent too narrow!
+lvl1: 	OptionListComponent too narrow!
+lvl2: 	 req sound [detailed.menuOpen]
+lvl2: 	   (missing)
+lvl1: 	OptionListComponent too narrow!
+lvl1: 	OptionListComponent too narrow!
+lvl2: 	 req sound [detailed.menuOpen]
+lvl2: 	   (missing)
+lvl1: 	OptionListComponent too narrow!
+lvl1: 	OptionListComponent too narrow!
+lvl2: 	 req sound [detailed.menuOpen]
+lvl2: 	   (missing)
+lvl1: 	OptionListComponent too narrow!
+lvl1: 	OptionListComponent too narrow!
+lvl2: 	 req sound [detailed.menuOpen]
+lvl2: 	   (missing)
+lvl1: 	OptionListComponent too narrow!
+lvl1: 	OptionListComponent too narrow!
+lvl2: 	 req sound [detailed.menuOpen]
+lvl2: 	   (missing)
+lvl1: 	OptionListComponent too narrow!
+lvl1: 	OptionListComponent too narrow!
+lvl2: 	 req sound [detailed.menuOpen]
+lvl2: 	   (missing)
+lvl1: 	OptionListComponent too narrow!
+lvl1: 	OptionListComponent too narrow!
+lvl2: 	 req sound [detailed.menuOpen]
+lvl2: 	   (missing)
+lvl1: 	OptionListComponent too narrow!
+lvl1: 	OptionListComponent too narrow!
+lvl2: 	 req sound [detailed.menuOpen]
+lvl2: 	   (missing)
+lvl1: 	OptionListComponent too narrow!
+lvl1: 	OptionListComponent too narrow!
+lvl2: 	 req sound [detailed.menuOpen]
+lvl2: 	   (missing)
+lvl1: 	OptionListComponent too narrow!
+lvl1: 	OptionListComponent too narrow!
+lvl2: 	 req sound [detailed.menuOpen]
+lvl2: 	   (missing)
+lvl1: 	OptionListComponent too narrow!
+lvl1: 	OptionListComponent too narrow!
+lvl2: 	 req sound [detailed.menuOpen]
+lvl2: 	   (missing)
+lvl1: 	OptionListComponent too narrow!
+lvl1: 	OptionListComponent too narrow!
+lvl2: 	 req sound [detailed.menuOpen]
+lvl2: 	   (missing)
+lvl1: 	OptionListComponent too narrow!
+lvl1: 	OptionListComponent too narrow!
+lvl2: 	 req sound [detailed.launch]
+lvl2: 	   (missing)
+lvl2: 	Attempting to launch game...
+lvl2: 		retroarch -L /usr/lib/libretro/snes9x_libretro.so /home/house/roms/SNES/Super\ Star\ Wars.smc
+lvl2: 	Creating surface...
+lvl2: 	Created window successfully.
+lvl2: 	Added known joystick Generic X-Box pad (instance ID: 0, device index: 0)
+lvl2: 	Added known joystick Generic X-Box pad (instance ID: 0, device index: 0)
+lvl2: 	 req sound [detailed.launch]
+lvl2: 	   (missing)
+lvl2: 	Attempting to launch game...
+lvl2: 		retroarch -L /usr/lib/libretro/mgba_libretro.so /home/house/roms/GBA/Final\ Fantasy\ 5\ Advance\ #\ GBA.GBA
+lvl2: 	Creating surface...
+lvl2: 	Created window successfully.
+lvl2: 	Added known joystick Generic X-Box pad (instance ID: 0, device index: 0)
+lvl2: 	Added known joystick Generic X-Box pad (instance ID: 0, device index: 0)
+lvl2: 	 req sound [detailed.launch]
+lvl2: 	   (missing)
+lvl2: 	Attempting to launch game...
+lvl2: 		retroarch -L /usr/lib/libretro/mgba_libretro.so /home/house/roms/GBA/Final\ Fantasy\ 5\ Advance\ #\ GBA.GBA
+lvl2: 	Creating surface...
+lvl2: 	Created window successfully.
+lvl2: 	Added known joystick Generic X-Box pad (instance ID: 0, device index: 0)
+lvl2: 	Added known joystick Generic X-Box pad (instance ID: 0, device index: 0)
+lvl2: 	 req sound [detailed.launch]
+lvl2: 	   (missing)
+lvl2: 	Attempting to launch game...
+lvl2: 		retroarch -L /usr/lib/libretro/mgba_libretro.so /home/house/roms/GBA/Final\ Fantasy\ 5\ Advance\ #\ GBA.GBA
+lvl2: 	Creating surface...
+lvl2: 	Created window successfully.
+lvl2: 	Added known joystick Generic X-Box pad (instance ID: 0, device index: 0)
+lvl2: 	Added known joystick Generic X-Box pad (instance ID: 0, device index: 0)
+lvl2: 	 req sound [detailed.launch]
+lvl2: 	   (missing)
+lvl2: 	Attempting to launch game...
+lvl2: 		retroarch -L /usr/lib/libretro/mgba_libretro.so /home/house/roms/GBA/Final\ Fantasy\ 5\ Advance\ #\ GBA.GBA
+lvl2: 	Creating surface...
+lvl2: 	Created window successfully.
+lvl2: 	Added known joystick Generic X-Box pad (instance ID: 0, device index: 0)
+lvl2: 	Added known joystick Generic X-Box pad (instance ID: 0, device index: 0)
+lvl2: 	EmulationStation cleanly shutting down.
