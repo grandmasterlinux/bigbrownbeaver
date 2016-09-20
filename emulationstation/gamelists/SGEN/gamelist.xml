@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<gameList sortid="0">
+	<game>
+		<path>./Sonic and Knuckles &amp; Sonic 2 (JUE) [!].bin</path>
+		<name>Sonic and Knuckles &amp; Sonic 2 (JUE) [!]</name>
+		<playcount>1</playcount>
+		<lastplayed>20160912T135322</lastplayed>
+	</game>
+	<game>
+		<path>./Sonic the Hedgehog (JUE) [!].bin</path>
+		<name>Sonic the Hedgehog (JUE) [!]</name>
+		<playcount>2</playcount>
+		<lastplayed>20160912T135355</lastplayed>
+	</game>
+</gameList>

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<gameList sortid="0">
+	<game>
+		<path>./narc2.zip</path>
+		<name>Narc (rev 2.00)</name>
+		<playcount>1</playcount>
+		<lastplayed>20160914T022524</lastplayed>
+	</game>
+	<game>
+		<path>./narc3.zip</path>
+		<name>Narc (rev 3.20)</name>
+		<playcount>1</playcount>
+		<lastplayed>20160914T022455</lastplayed>
+	</game>
+	<game>
+		<path>./narc.zip</path>
+		<name>Narc (rev 7.00)</name>
+		<playcount>1</playcount>
+		<lastplayed>20160914T022419</lastplayed>
+	</game>
+</gameList>

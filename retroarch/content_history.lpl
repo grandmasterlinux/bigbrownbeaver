@@ -1,4 +1,124 @@
+/home/house/roms/SNES/Tecmo Super Bowl III - The Final Edition.smc
+
+/usr/lib/libretro/snes9x_libretro.so
+Snes9x
+
+
+/home/house/roms/NES/Tecmo Super Bowl.nes
+
+/usr/lib/libretro/nestopia_libretro.so
+Nestopia
+
+
+/home/house/roms/NES/Adventure Island II.nes
+
+/usr/lib/libretro/nestopia_libretro.so
+Nestopia
+
+
+/home/house/roms/NES/Advanced Dungeons & Dragons - Pool of Radiance.nes
+
+/usr/lib/libretro/nestopia_libretro.so
+Nestopia
+
+
+/home/house/roms/NES/Advanced Dungeons & Dragons - Hillsfar.nes
+
+/usr/lib/libretro/nestopia_libretro.so
+Nestopia
+
+
+/home/house/roms/NES/Advanced Dungeons & Dragons - Heroes of the Lance.nes
+
+/usr/lib/libretro/nestopia_libretro.so
+Nestopia
+
+
+/home/house/roms/NES/Advanced Dungeons & Dragons - Dragonstrike.nes
+
+/usr/lib/libretro/nestopia_libretro.so
+Nestopia
+
+
+/home/house/roms/SNES/Animaniacs.smc
+
+/usr/lib/libretro/snes9x_libretro.so
+Snes9x
+
+
+/home/house/roms/SNES/Eye of the Beholder.smc
+
+/usr/lib/libretro/snes9x_libretro.so
+Snes9x
+
+
+/home/house/roms/SNES/A.S.P. Air Strike Patrol.smc
+
+/usr/lib/libretro/snes9x_libretro.so
+Snes9x
+
+
+/home/house/roms/N64/Bomberman 64 (U) [!].z64
+
+/usr/lib/libretro/mupen64plus_libretro.so
+Mupen64Plus
+
+
+/home/house/roms/GBA/Bomber-Man Tournament # GBA.GBA
+
+/usr/lib/libretro/mgba_libretro.so
+mGBA
+
+
+/home/house/roms/GBA/Bomberman Max 2 - Red (E) (M3).gba
+
+/usr/lib/libretro/mgba_libretro.so
+mGBA
+
+
+/home/house/roms/GBA/Bomberman Max 2 - Blue (E) (M3).gba
+
+/usr/lib/libretro/mgba_libretro.so
+mGBA
+
+
+/home/house/roms/GBA/Breath of Fire II (USA).gba
+
+/usr/lib/libretro/mgba_libretro.so
+mGBA
+
+
+/home/house/roms/GBA/Breath of Fire (E) (M3).gba
+
+/usr/lib/libretro/mgba_libretro.so
+mGBA
+
+
 /home/house/roms/GBA/Final Fantasy 5 Advance # GBA.GBA
+
+/usr/lib/libretro/mgba_libretro.so
+mGBA
+
+
+/home/house/roms/PSX/crash_bandicoot_-_warped.bin
+
+/usr/lib/libretro/pcsx_rearmed_libretro.so
+PCSX-ReARMed
+
+
+/home/house/roms/PSX/Jet Moto 3 (USA).bin
+
+/usr/lib/libretro/pcsx_rearmed_libretro.so
+PCSX-ReARMed
+
+
+/home/house/roms/GBA/V-Rally 3 (U).gba
+
+/usr/lib/libretro/mgba_libretro.so
+mGBA
+
+
+/home/house/roms/GBA/Final Fantasy 6 Advance # GBA.GBA
 
 /usr/lib/libretro/mgba_libretro.so
 mGBA
@@ -236,12 +356,6 @@ Snes9x
 
 /usr/lib/libretro/mame2014_libretro.so
 MAME 2014
-
-
-/home/house/roms/PSX/Jet Moto 3 (USA).bin
-
-/usr/lib/libretro/pcsx_rearmed_libretro.so
-PCSX-ReARMed
 
 
 /home/house/roms/SGEN/Arrow Flash (JUE) [!].bin
@@ -482,119 +596,5 @@ PCSX-ReARMed
 
 /usr/lib/libretro/mame2014_libretro.so
 MAME 2014
-
-
-/home/house/roms/MAME/aliensu.zip
-
-/usr/lib/libretro/mame2014_libretro.so
-MAME 2014
-
-
-/home/house/roms/MAME/4dwarrio.zip
-
-/usr/lib/libretro/mame2014_libretro.so
-MAME 2014
-
-
-/home/house/roms/2600/Frogger.bin
-
-/usr/lib/libretro/stella_libretro.so
-Stella
-
-
-/home/house/roms/PSX/nascar_2001.bin
-
-/usr/lib/libretro/pcsx_rearmed_libretro.so
-PCSX-ReARMed
-
-
-/home/house/roms/PSX/crash_bandicoot_-_warped.bin
-
-/usr/lib/libretro/pcsx_rearmed_libretro.so
-PCSX-ReARMed
-
-
-/home/house/roms/MAME/19xx.zip
-
-/usr/lib/libretro/mame2014_libretro.so
-MAME 2014
-
-
-/home/house/roms/MAME/indytemp.zip
-
-/usr/lib/libretro/mame2014_libretro.so
-MAME 2014
-
-
-/home/house/roms/MAME/gauntdl.zip
-
-/usr/lib/libretro/mame2014_libretro.so
-MAME 2014
-
-
-/home/house/roms/MAME/finallap.zip
-
-/usr/lib/libretro/mame2014_libretro.so
-MAME 2014
-
-
-/home/house/roms/MAME/finalap3.zip
-
-/usr/lib/libretro/mame2014_libretro.so
-MAME 2014
-
-
-/home/house/roms/MAME/finalapr.zip
-
-/usr/lib/libretro/mame2014_libretro.so
-MAME 2014
-
-
-/home/house/roms/MAME/finalap2.zip
-
-/usr/lib/libretro/mame2014_libretro.so
-MAME 2014
-
-
-/home/house/roms/MAME/arknoid2u.zip
-
-/usr/lib/libretro/mame2014_libretro.so
-MAME 2014
-
-
-/home/house/roms/MAME/apb.zip
-
-/usr/lib/libretro/mame2014_libretro.so
-MAME 2014
-
-
-/home/house/roms/MAME/1944.zip
-
-/usr/lib/libretro/mame2014_libretro.so
-MAME 2014
-
-
-/home/house/roms/SGEN/Samurai Shodown (U) [!].bin
-
-/usr/lib/libretro/genesis_plus_gx_libretro.so
-Genesis Plus GX
-
-
-/home/house/roms/MAME/88games.zip
-
-/usr/lib/libretro/mame2014_libretro.so
-MAME 2014
-
-
-/home/house/roms/2600/Pac-Man.bin
-
-/usr/lib/libretro/stella_libretro.so
-Stella
-
-
-/home/house/roms/SNES/GP-1 - Part II.smc
-
-/usr/lib/libretro/snes9x_libretro.so
-Snes9x
 
 

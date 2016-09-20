@@ -100,6 +100,8 @@ It's up to you and your remaining friends to search Elm Street for his bones, wh
 		<developer>Westwood Associates</developer>
 		<publisher>Strategic Simulations</publisher>
 		<genre>Role-Playing</genre>
+		<playcount>1</playcount>
+		<lastplayed>20160919T011832</lastplayed>
 	</game>
 	<game>
 		<path>./Advanced Dungeons &amp; Dragons - Heroes of the Lance.nes</path>
@@ -110,6 +112,8 @@ It's up to you and your remaining friends to search Elm Street for his bones, wh
 		<publisher>U.S. Gold</publisher>
 		<genre>Role-Playing</genre>
 		<players></players>
+		<playcount>1</playcount>
+		<lastplayed>20160919T012027</lastplayed>
 	</game>
 	<game>
 		<path>./Advanced Dungeons &amp; Dragons - Hillsfar.nes</path>
@@ -122,6 +126,8 @@ As a would-be-hero, four classes are available in a randomly generated mission-b
 		<developer>TSR</developer>
 		<publisher>FCI</publisher>
 		<genre>Role-Playing</genre>
+		<playcount>1</playcount>
+		<lastplayed>20160919T014424</lastplayed>
 	</game>
 	<game>
 		<path>./Advanced Dungeons &amp; Dragons - Pool of Radiance.nes</path>
@@ -132,6 +138,8 @@ As a would-be-hero, four classes are available in a randomly generated mission-b
 		<developer>Strategic Simulations, Inc.</developer>
 		<publisher>FCI</publisher>
 		<genre>Role-Playing</genre>
+		<playcount>1</playcount>
+		<lastplayed>20160919T015800</lastplayed>
 	</game>
 	<game>
 		<path>./Adventure Island III.nes</path>
@@ -162,6 +170,8 @@ As a would-be-hero, four classes are available in a randomly generated mission-b
 		<developer>Hudson</developer>
 		<publisher>Hudson</publisher>
 		<genre>Adventure</genre>
+		<playcount>1</playcount>
+		<lastplayed>20160919T020546</lastplayed>
 	</game>
 	<game>
 		<path>./Adventures in the Magic Kingdom.nes</path>
@@ -6058,6 +6068,8 @@ Nothing can match the super excitement as the crowd cheers over this mania on th
 		<publisher>Tecmo</publisher>
 		<genre>Sports</genre>
 		<players></players>
+		<playcount>1</playcount>
+		<lastplayed>20160919T021304</lastplayed>
 	</game>
 	<game>
 		<path>./Tecmo World Wrestling.nes</path>

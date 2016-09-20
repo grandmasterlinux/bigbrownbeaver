@@ -25,6 +25,8 @@ Pre-mission screens ask the player to select from the two planes. Then,  the pla
 		<developer>SETA</developer>
 		<publisher>SETA</publisher>
 		<genre>Shooter</genre>
+		<playcount>1</playcount>
+		<lastplayed>20160919T005646</lastplayed>
 	</game>
 	<game>
 		<path>./Aaahh!!! Real Monsters.smc</path>
@@ -117,6 +119,8 @@ During your mission, you'll run into Gomez, Morticia, Lurch and other members of
 		<developer>Westwood Associates</developer>
 		<publisher>Strategic Simulations, Inc.</publisher>
 		<genre>Role-Playing</genre>
+		<playcount>1</playcount>
+		<lastplayed>20160919T010939</lastplayed>
 	</game>
 	<game>
 		<path>./Yogi Bear.smc</path>
@@ -276,6 +280,8 @@ In total there are seven events, all viewed from third-person views. The final o
 		<developer>Konami</developer>
 		<publisher>Konami</publisher>
 		<genre>Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20160919T011020</lastplayed>
 	</game>
 	<game>
 		<path>./Williams Arcade's Greatest Hits - The Atari Collection 1.smc</path>
@@ -6693,6 +6699,8 @@ Additions include updated player rosters, options for weather effects (rain, sno
 		<publisher>Tecmo</publisher>
 		<genre>Sports</genre>
 		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20160919T021830</lastplayed>
 	</game>
 	<game>
 		<path>./Tecmo Super NBA Basketball.smc</path>

@@ -58,6 +58,8 @@ If realism is not what you are looking for, or if the refs keep rewarding your p
 		<developer>Naughty Dog</developer>
 		<publisher>Sony Computer Entertainment</publisher>
 		<genre>Adventure</genre>
+		<playcount>1</playcount>
+		<lastplayed>20160918T150046</lastplayed>
 	</game>
 	<game>
 		<path>./dragonball_z_-_ultimate_battle_22.bin</path>
@@ -326,8 +328,8 @@ Set in a fantasy world with a technology level equivalent to that of the Second 
 		<publisher>Sony</publisher>
 		<genre>Racing</genre>
 		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20160915T181245</lastplayed>
+		<playcount>2</playcount>
+		<lastplayed>20160918T144304</lastplayed>
 	</game>
 	<game>
 		<path>./madden_nfl_2000.bin</path>

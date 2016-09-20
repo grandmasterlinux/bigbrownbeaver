@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<gameList sortid="0">
+	<game>
+		<path>./10 Yard Fight.nes</path>
+		<name>10 Yard Fight</name>
+		<playcount>1</playcount>
+		<lastplayed>20160911T141215</lastplayed>
+	</game>
+	<game>
+		<path>./Baseball Stars.nes</path>
+		<name>Baseball Stars</name>
+		<playcount>1</playcount>
+		<lastplayed>20160911T140312</lastplayed>
+	</game>
+	<game>
+		<path>./Batman - Return of the Joker.nes</path>
+		<name>Batman - Return of the Joker</name>
+		<playcount>1</playcount>
+		<lastplayed>20160911T140318</lastplayed>
+	</game>
+</gameList>

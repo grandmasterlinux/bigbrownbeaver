@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<gameList sortid="0">
+	<game>
+		<path>./Sonic and Knuckles &amp; Sonic 3 (JUE) [!].bin</path>
+		<name>Sonic and Knuckles &amp; Sonic 3 (JUE) [!]</name>
+		<playcount>1</playcount>
+		<lastplayed>20160911T154202</lastplayed>
+	</game>
+	<game>
+		<path>./Sonic the Hedgehog (JUE) [!].bin</path>
+		<name>Sonic the Hedgehog (JUE) [!]</name>
+		<playcount>1</playcount>
+		<lastplayed>20160911T153751</lastplayed>
+	</game>
+	<game>
+		<path>./Sonic the Hedgehog 2 (JUE) [!].bin</path>
+		<name>Sonic the Hedgehog 2 (JUE) [!]</name>
+		<playcount>1</playcount>
+		<lastplayed>20160912T005258</lastplayed>
+	</game>
+	<game>
+		<path>./Sonic the Hedgehog 3 (E).bin</path>
+		<name>Sonic the Hedgehog 3 (E)</name>
+		<playcount>1</playcount>
+		<lastplayed>20160912T005138</lastplayed>
+	</game>
+</gameList>

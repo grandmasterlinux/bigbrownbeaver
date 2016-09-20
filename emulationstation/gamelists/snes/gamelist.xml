@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<gameList sortid="0">
+	<game>
+		<path>./Addams Family, The.smc</path>
+		<name>Addams Family, The</name>
+		<playcount>1</playcount>
+		<lastplayed>20160912T005610</lastplayed>
+	</game>
+	<game>
+		<path>./Batman Forever.smc</path>
+		<name>Batman Forever</name>
+		<playcount>2</playcount>
+		<lastplayed>20160911T142256</lastplayed>
+	</game>
+	<game>
+		<path>./Castlevania - Dracula X.smc</path>
+		<name>Castlevania - Dracula X</name>
+		<playcount>2</playcount>
+		<lastplayed>20160911T144018</lastplayed>
+	</game>
+	<game>
+		<path>./Mortal Kombat 3.smc</path>
+		<name>Mortal Kombat 3</name>
+		<playcount>1</playcount>
+		<lastplayed>20160911T141906</lastplayed>
+	</game>
+	<game>
+		<path>./Super Metroid.smc</path>
+		<name>Super Metroid</name>
+		<playcount>1</playcount>
+		<lastplayed>20160911T144229</lastplayed>
+	</game>
+</gameList>

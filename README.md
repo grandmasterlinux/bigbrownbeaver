@@ -7,4 +7,4 @@ quickly.
 
 Useful things to know.
 These files are from an x86_64 Arch Linux installation of retroarch
-emulationstation.
+& emulationstation.  Currently on version 1.3.6 (git) of retroarch 

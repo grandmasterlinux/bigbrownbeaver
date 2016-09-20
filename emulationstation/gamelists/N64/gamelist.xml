@@ -549,6 +549,8 @@ Body Harvest is an action and driving game with a mission-based structure. The p
 		<publisher>Nintendo</publisher>
 		<genre>Platform</genre>
 		<players>4+</players>
+		<playcount>1</playcount>
+		<lastplayed>20160919T005206</lastplayed>
 	</game>
 	<game>
 		<path>./Bomberman 64 - The Second Attack! (U) [!].z64</path>
